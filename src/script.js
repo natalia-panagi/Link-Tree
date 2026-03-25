@@ -1,6 +1,6 @@
 let links = [
   {
-    text: "🌿Detox Time - 15%Off on Supplements",
+    text: "🌿Detox Time - 15% Off on Supplements",
     url: "https://bwell.com.cy/product-category/supplements/liver-health/",
   },
   {
