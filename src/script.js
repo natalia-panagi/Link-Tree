@@ -12,10 +12,10 @@ let links = [
     text: "📲Download our Application",
     url: "https://www.apple.com/apps/",
   },
-  { text: "🛒 Shop Online",
+  { text: "🛒 Shop Online - All Cyprus",
      url: "https://bwell.com.cy" },
   {
-    text: "🏍️ Shop on Wolt",
+    text: "🏍️ Shop on Wolt - in Limassol",
     url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
   },
 ];
