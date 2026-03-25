@@ -1,22 +1,29 @@
 [
-    {"text": "🌿Detox Time - 15%Off on Supplements",
+  {
+    "text": "🌿Detox Time - 15%Off on Supplements",
     "url": "https://bwell.com.cy/product-category/supplements/liver-health/",
-    "trackingName": "detox_time"},
-    
-    {
+    "trackingName": "detox_time"
+  },
+
+  {
     "text": "🏢Pharmacies Locations & Hours",
     "url": "https://bwell.com.cy/store-locations/",
     "trackingName": "pharmacies_locations"
-},
-    {
+  },
+
+  {
+    "text": "📲Download our application",
+    "url": "https://bwell.com.cy/store-locations/",
+    "trackingName": "download_application"
+  },
+  {
     "text": " 🛒Shop Online",
     "url": "https://bwell.com.cy/",
     "trackingName": "online_shopping"
-},
-{
-  "text": " 🏍️Shop on Wolt",
-  "url": "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
-  "trackingName": "wolt_shopping"
-}
-
+  },
+  {
+    "text": " 🏍️Shop on Wolt",
+    "url": "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
+    "trackingName": "wolt_shopping"
+  }
 ]

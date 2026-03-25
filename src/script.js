@@ -7,13 +7,17 @@ let links = [
     text: "🏢 Pharmacies Locations & Hours",
     url: "https://bwell.com.cy/store-locations/",
   },
-  {text: "🛒 Shop Online",
-    url: "https://bwell.com.cy",
+
+  {
+    text: "📲Download our Application",
+    url: "https://www.apple.com/apps/",
   },
+  { text: "🛒 Shop Online",
+     url: "https://bwell.com.cy" },
   {
     text: "🏍️ Shop on Wolt",
     url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
-  }
+  },
 ];
 
 let container = document.getElementById("link-tree");
