@@ -1,6 +1,6 @@
 let links = [
   {
-    text: "Detox Time - 15% Off Supplements",
+    text: "Detox - 15% Off Supplements",
     url: "https://bwell.com.cy/product-category/supplements/liver-health/",
     icon: "leaf"
   },
@@ -33,7 +33,7 @@ links.forEach(link =>{
     a.target = "_blank";
     a.className = "btn";
       a.innerHTML = `
-    <span>${link.text}  </span>
+    <span>${link.text}</span>
     <i data-lucide="${link.icon}"></i>
     
   `;
