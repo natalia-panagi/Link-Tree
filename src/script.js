@@ -1,22 +1,27 @@
 let links = [
   {
-    text: "Detox Time - 15% Off on Supplements",
+    text: "Detox Time - 15% Off Supplements",
     url: "https://bwell.com.cy/product-category/supplements/liver-health/",
+    icon: "leaf"
   },
   {
     text: "Pharmacies Locations & Hours ",
     url: "https://bwell.com.cy/store-locations/",
+    icon: "building-2"
   },
 
   {
     text: "Download our Application",
     url: "https://www.apple.com/apps/",
+    icon: "smartphone"
   },
   { text: "Shop Online - All Cyprus",
-     url: "https://bwell.com.cy" },
+     url: "https://bwell.com.cy" ,
+     icon: "shopping-cart"},
   {
     text: "Shop on Wolt - in Limassol",
     url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
+    icon:"motorbike"
   },
 ];
 
@@ -24,13 +29,22 @@ let container = document.getElementById("link-tree");
 links.forEach(link =>{
     let a = document.createElement ("a");
     a.href = link.url;
-    a.textContent = link.text;
+   
     a.target = "_blank";
     a.className = "btn";
+      a.innerHTML = `
+    <span>${link.text}  </span>
+    <i data-lucide="${link.icon}"></i>
+    
+  `;
+    
+
     container.appendChild(a);
 
 
 });
+
+lucide.createIcons();
 
 let thumbnailsData = [
   {
@@ -57,5 +71,6 @@ thumbnailsData.forEach(item=> {
    grid.appendChild(thumb)
 
 });
+
 
 

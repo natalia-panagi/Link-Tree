@@ -78,6 +78,9 @@ h1{
 
 .btn {
   transition: all 0.25s ease;
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
 .btn:hover {
@@ -88,6 +91,14 @@ h1{
 }
 
 
+.btn svg{
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.btn span{
+  line-height: 1;
+}
 
   h2 {text-align: center;
   display: block;
