@@ -1,21 +1,21 @@
 let links = [
   {
-    text: "🌿Detox Time - 15% Off on Supplements",
+    text: "Detox Time - 15% Off on Supplements",
     url: "https://bwell.com.cy/product-category/supplements/liver-health/",
   },
   {
-    text: "🏢 Pharmacies Locations & Hours",
+    text: "Pharmacies Locations & Hours ",
     url: "https://bwell.com.cy/store-locations/",
   },
 
   {
-    text: "📲Download our Application",
+    text: "Download our Application",
     url: "https://www.apple.com/apps/",
   },
-  { text: "🛒 Shop Online - All Cyprus",
+  { text: "Shop Online - All Cyprus",
      url: "https://bwell.com.cy" },
   {
-    text: "🏍️ Shop on Wolt - in Limassol",
+    text: "Shop on Wolt - in Limassol",
     url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
   },
 ];
@@ -39,20 +39,11 @@ let thumbnailsData = [
     img: "https://website-5b9884c4.bsg.beb.mybluehost.me/uploads/weight.png",
   },
   {
-    text: "True Italian Elegance <br> for You",
+    text: "True italian elegance <br> for you",
     url: "https://bwell.com.cy/product-tag/rudy-profumi/",
     img: "https://website-5b9884c4.bsg.beb.mybluehost.me/uploads/rudy.png",
   },
-  {
-    text: "Choose Probiotics <br> Wisely",
-    url: "https://www.instagram.com/p/DRjWvMQlOrk/?hl=en&img_index=1",
-    img: "https://website-5b9884c4.bsg.beb.mybluehost.me/uploads/probio.png",
-  },
-  {
-    text: "Ideal Magnesium <br> for Active Life",
-    url: "https://www.instagram.com/p/DMs51IfPuIZ/?hl=en",
-    img: "https://website-5b9884c4.bsg.beb.mybluehost.me/uploads/malate.png",
-  },
+
 ];
 
 let grid = document.getElementById("thumbnails");
