@@ -31,9 +31,9 @@ radial-gradient(at 56% 57%, hsla(130,82%,18%,1) 0px, transparent 50%);
 }
 
 .logo{
-  border-radius: 49%;
-  padding-bottom: 3px;
-  padding-top: 3px;
+  border-radius: 50%;
+  padding: 5px;
+  
 }
 
 h1{
@@ -41,8 +41,8 @@ h1{
   text-align: center;
   display: block;
   margin: 0 auto;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 86x;
+  padding-bottom: 6px;
   max-width: 600px;
   margin-bottom: 15px;
   color: white;
