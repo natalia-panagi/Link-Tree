@@ -116,12 +116,12 @@ h1{
 }
 #thumbnails{
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 25px;
- 
-  width: 100%;
-  max-width: 360px;
-  margin-left: 80px;
+   width: 100%;
   max-width: 400px;
+  margin: 0 auto;
 
  
 }
