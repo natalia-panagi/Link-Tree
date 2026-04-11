@@ -10,11 +10,6 @@ let links = [
     icon: "building-2"
   },
 
-  {
-    text: "Download our Application",
-    url: "https://www.apple.com/apps/",
-    icon: "smartphone"
-  },
   { text: "Shop Online - All Cyprus",
      url: "https://bwell.com.cy" ,
      icon: "shopping-cart"},
@@ -50,12 +45,12 @@ let thumbnailsData = [
   {
     text: "Lose weight without <br> injections",
     url: "https://bwell.com.cy/shop/supplements/weight-loss/dietmed-dietform-pic-30-capsules/",
-    img: "https://website-5b9884c4.bsg.beb.mybluehost.me/uploads/weight.png",
+    img: "https://website-0208ad57.bsg.beb.mybluehost.me/uploads/weight.png",
   },
   {
     text: "True italian elegance <br> for you",
     url: "https://bwell.com.cy/product-tag/rudy-profumi/",
-    img: "https://website-5b9884c4.bsg.beb.mybluehost.me/uploads/rudy.png",
+    img: "https://website-0208ad57.bsg.beb.mybluehost.me/uploads/rudy.png",
   },
 
 ];
