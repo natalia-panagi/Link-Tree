@@ -154,3 +154,8 @@ h1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
 }
+.stores-icons{
+  width: 100px;
+  height: 54px;
+  border-radius: 7px;
+}
