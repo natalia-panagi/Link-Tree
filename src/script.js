@@ -2,21 +2,23 @@ let links = [
   {
     text: "Detox - 15% Off Supplements",
     url: "https://bwell.com.cy/product-category/supplements/liver-health/",
-    icon: "leaf"
+    icon: "leaf",
   },
   {
     text: "Pharmacies Locations & Hours ",
-    url: "https://bwell.com.cy/store-locations/",
-    icon: "building-2"
+    url: "https://bwell.com.cy/homepage/store-locations",
+    icon: "building-2",
   },
 
-  { text: "Shop Online - All Cyprus",
-     url: "https://bwell.com.cy" ,
-     icon: "shopping-cart"},
+  {
+    text: "Shop Online - All Cyprus",
+    url: "https://bwell.com.cy",
+    icon: "shopping-cart",
+  },
   {
     text: "Shop on Wolt - in Limassol",
     url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
-    icon:"motorbike"
+    icon: "motorbike",
   },
 ];
 
