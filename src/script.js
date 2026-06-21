@@ -17,7 +17,7 @@ let links = [
   },
   {
     text: "Shop on Wolt - in Limassol",
-    url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-agios-athanasios",
+    url: "https://wolt.com/en/cyp/limassol/venue/bwell-pharmacy-moutagiaka",
     icon: "motorbike",
   },
 ];
