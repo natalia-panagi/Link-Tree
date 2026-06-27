@@ -46,7 +46,7 @@ lucide.createIcons();
 let thumbnailsData = [
   {
     text: "Lose weight without <br> injections",
-    url: "https://bwell.com.cy/product-details/dietmed-dietformpic-vegetarian-capsules-30-4174",
+    url: "https://bwell.com.cy/product-details/dietmed-dietformpic-vegetarian-capsules-30",
     img: "https://website-0208ad57.bsg.beb.mybluehost.me/uploads/weight.png",
   },
   {
