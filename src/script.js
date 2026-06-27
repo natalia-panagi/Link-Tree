@@ -1,8 +1,8 @@
 let links = [
   {
-    text: "Detox - 15% Off Supplements",
-    url: "https://bwell.com.cy/product-category/supplements/liver-health/",
-    icon: "leaf",
+    text: "Darphin 40% OFF - Until Stock Lasts",
+    url: "https://bwell.com.cy/search?key=darphin&currentPage=1",
+    icon: "circle-percent",
   },
   {
     text: "Pharmacies Locations & Hours ",
@@ -46,15 +46,14 @@ lucide.createIcons();
 let thumbnailsData = [
   {
     text: "Lose weight without <br> injections",
-    url: "https://bwell.com.cy/shop/supplements/weight-loss/dietmed-dietform-pic-30-capsules/",
+    url: "https://bwell.com.cy/product-details/dietmed-dietformpic-vegetarian-capsules-30-4174",
     img: "https://website-0208ad57.bsg.beb.mybluehost.me/uploads/weight.png",
   },
   {
     text: "True italian elegance <br> for you",
-    url: "https://bwell.com.cy/product-tag/rudy-profumi/",
+    url: "https://bwell.com.cy/search?key=RUDY&currentPage=1",
     img: "https://website-0208ad57.bsg.beb.mybluehost.me/uploads/rudy.png",
   },
-
 ];
 
 let grid = document.getElementById("thumbnails");

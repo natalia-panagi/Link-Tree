@@ -71,6 +71,15 @@ h1{
   box-shadow: 
     0 8px 32px rgba(0, 0, 0, 0.25);
 
+
+
+
+
+
+
+
+
+    
   color: white;
   text-align: left;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -121,6 +130,7 @@ h1{
   justify-content: center;
   gap: 15px;
   padding-bottom: 20px;
+  
 }
 
 #thumbnails{
@@ -144,9 +154,10 @@ h1{
     0 8px 32px rgba(0, 0, 0, 0.25);
 }
 
-.thumb img:hover{
+.thumb:hover{
   transform:scale(1.05);
 }
+
 .thumb p{
   margin-top:8px;
   font-size: 14px;
@@ -157,4 +168,11 @@ h1{
 .stores-icons{
   width: 150px;
   border-radius: 7px;
+  
+}
+.stores-icons:hover{
+  transform: translateY(-3px);
+  background: rgba(255, 255, 255, 0.18);
+  box-shadow: 
+    0 12px 40px rgba(0, 0, 0, 0.35);
 }
